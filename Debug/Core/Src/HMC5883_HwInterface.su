@@ -1,0 +1,2 @@
+../Core/Src/HMC5883_HwInterface.c:12:9:I2C_Write	32	static
+../Core/Src/HMC5883_HwInterface.c:20:9:I2C_Read	32	static
